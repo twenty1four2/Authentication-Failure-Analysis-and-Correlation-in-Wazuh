@@ -1,3 +1,7 @@
+## Screenshots
+<img width="1897" height="959" alt="escalatedbruteforceevent" src="https://github.com/user-attachments/assets/47500075-ea54-474d-9ca2-b9f2eeb1ddcd" />
+<img width="799" height="499" alt="bruteforcediffusers" src="https://github.com/user-attachments/assets/f87b127f-6b85-46a0-8bf2-7f903c527f4f" />
+
 Authentication Failure Analysis and Correlation in Wazuh
 Overview
 
